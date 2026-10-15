@@ -1,3 +1,5 @@
+Kopieret fra originale branch da Vincent har 2 git konti:
+
 Velkommen til Ege og Vaupels Blackjack med epsilon greedy q learning!
 
 Der er ingen ekstra libraries påkrævet for kørsel af kode.
